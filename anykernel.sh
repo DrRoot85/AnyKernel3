@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=H61M Kernel by Archer-H61M
+kernel.string=DrRoot S23 Series Kernel by DrRoot credit osm0sis @ xda-developers
 do.devicecheck=0
 do.modules=0
 do.systemless=1
